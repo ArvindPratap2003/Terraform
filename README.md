@@ -1,4 +1,4 @@
-#################    Terraform For ec2 infra on AWS ####################################################################
+#################    Terraform For ec2 infra on AWS ######################################
 
 Terraform -> download from hashicorp.com site
 
